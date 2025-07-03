@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+python-dotenv
+llama-index
+pinecone-client[grpc]
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-pinecone
+pypdf
